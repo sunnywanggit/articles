@@ -1,3 +1,5 @@
+# html2canvas 用法及踩坑实录
+
 ## 什么是 html2canvs?
 
 `html2canvas` 的作用就是允许让我们直接在用户浏览器上拍摄网页或其部分的“截图”。
