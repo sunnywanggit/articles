@@ -85,3 +85,6 @@ Access-Control-Allow-Origin:*
 document.body.scrollTop = document.documentElement.scrollTop = 0;
 ```
 
+文章中如有不对的地方，欢迎小伙伴们多多指正。
+
+谢谢大家~ 💘
